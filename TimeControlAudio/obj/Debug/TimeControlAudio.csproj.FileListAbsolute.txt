@@ -1,0 +1,15 @@
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\TimeControlAudio.exe.config
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\TimeControlAudio.exe
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\TimeControlAudio.pdb
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\MetroFramework.Design.dll
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\MetroFramework.dll
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\MetroFramework.Fonts.dll
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\NAudio.dll
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\bin\Debug\NAudio.xml
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.csprojResolveAssemblyReference.cache
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.frmMain.resources
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.Properties.Resources.resources
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.csproj.GenerateResource.Cache
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.csproj.CoreCompileInputs.cache
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.exe
+c:\users\thiago.p21\source\repos\TimeControlAudio\TimeControlAudio\obj\Debug\TimeControlAudio.pdb
